@@ -41,8 +41,10 @@ a {
 
 .search-bar {
   border: none;
+  background-color: #121212;
   outline: none;
-  width: 350px;
+  /* width: 350px; */
+  color: #fff;
 }
 
 .category-btn {
